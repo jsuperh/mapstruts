@@ -15,4 +15,6 @@ public class GetProduct {
     private String nameP;
     private String creationDataP;
 
+    private GetCategory category;
+
 }
